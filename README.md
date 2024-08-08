@@ -3,8 +3,8 @@
 
 ## Links
 
-- Solution URL: [Social links profile]()
-- Live Site URL: [Social links profile Live]()
+- Solution URL: [Shoaib Bin Rashid-Github-repo](https://github.com/Shoaib-Bin-Rashid/Main-Social-Profile-Links)
+- Live Site URL: [Shoaib Bin Rashid](https://shoaib-bin-rashid.github.io/Main-Social-Profile-Links/)
 
 ## Built with
 
